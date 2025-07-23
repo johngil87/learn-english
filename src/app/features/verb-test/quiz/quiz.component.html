@@ -1,1 +1,47 @@
-<p>quiz works!</p>
+<div class="quiz-container">
+  <h2>Traduce el verbo {{ verb.type }}: <strong>{{ verb.espanol }}</strong></h2>
+
+  <app-input-check
+    label="Presente"
+    placeholder="Ej: eat"
+    (userInput)="handleInput('present', $event)"
+  ></app-input-check>
+
+  <app-input-check
+    label="Pasado"
+    placeholder="Ej: ate"
+    (userInput)="handleInput('past', $event)"
+  ></app-input-check>
+
+  <app-input-check *ngIf="verb.participle"
+    label="Participio"
+    placeholder="Ej: eaten"
+    (userInput)="handleInput('participle', $event)"
+  ></app-input-check>
+
+  <div *ngIf="verb?.type === 'regular'" class="sound-options">
+  <label>¿Cómo termina el sonido del pasado?</label>
+  <select [(ngModel)]="selectedSound">
+    <option value="">-- Selecciona --</option>
+    <option value="d">/d/</option>
+    <option value="t">/t/</option>
+    <option value="id">/ɪd/</option>
+  </select>
+</div>
+
+  <button class="sound-check-answers" (click)="checkAnswers()">Verificar</button>
+
+  <div *ngIf="showSound" class="feedback">
+    <p>Presente: {{ feedback.present }} <button class="sound-btn" *ngIf="showSound" (click)="speak(verb.present)">🔊</button></p>
+    <p>Pasado: {{ feedback.past }} <button class="sound-btn" *ngIf="showSound"  (click)="speak(verb.past)">🔊</button></p>
+    <p *ngIf="verb.participle">Participio: {{ feedback.participle }} <button class="sound-btn" *ngIf="showSound"  (click)="speak(verb.participle)">🔊</button></p>
+    <div *ngIf="verb?.type === 'regular'">
+      <p>Sonido: {{ soundFeedback }}</p>
+    </div>
+  </div>
+
+  <button (click)="pickRandomVerb()">Cambiar Verbo</button>
+
+</div>
+
+

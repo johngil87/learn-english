@@ -1,0 +1,1676 @@
+[
+  {
+    "present": "arise",
+    "past": "arose",
+    "participle": "arisen",
+    "pronunciacion": "\/əˈraɪz\/",
+    "espanol": "Surgir\/Leventarse",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "awake",
+    "past": "awoke",
+    "participle": "awoken",
+    "pronunciacion": "\/əˈweɪk\/",
+    "espanol": "Despertar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "be",
+    "past": "was \/ were",
+    "participle": "been",
+    "pronunciacion": "\/biː\/",
+    "espanol": "Ser\/ Estar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "bear",
+    "past": "bore",
+    "participle": "borne",
+    "pronunciacion": "\/beər\/",
+    "espanol": "Soportar, dar a luz",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "beat",
+    "past": "beat",
+    "participle": "beaten",
+    "pronunciacion": "\/biːt\/",
+    "espanol": "Golpear repetidamente",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "become",
+    "past": "became",
+    "participle": "become",
+    "pronunciacion": "\/bɪˈkʌm\/",
+    "espanol": "Llegar a ser",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "begin",
+    "past": "began",
+    "participle": "begun",
+    "pronunciacion": "\/bɪˈɡɪn\/",
+    "espanol": "Empezar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "bend",
+    "past": "bent",
+    "participle": "bent",
+    "pronunciacion": "\/bent\/",
+    "espanol": "Doblar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "bet",
+    "past": "bet",
+    "participle": "bet",
+    "pronunciacion": "\/bet\/",
+    "espanol": "Apostar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "bind",
+    "past": "bound",
+    "participle": "bound",
+    "pronunciacion": "\/baɪnd\/",
+    "espanol": "Atar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "bite",
+    "past": "bit",
+    "participle": "bitten",
+    "pronunciacion": "\/baɪt\/",
+    "espanol": "Morder",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "bleed",
+    "past": "bled",
+    "participle": "bled",
+    "pronunciacion": "\/bliːd\/",
+    "espanol": "Sangrar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "blow",
+    "past": "blew",
+    "participle": "blown",
+    "pronunciacion": "\/bloʊ\/",
+    "espanol": "Soplar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "break",
+    "past": "broke",
+    "participle": "broken",
+    "pronunciacion": "\/breɪk\/",
+    "espanol": "Romper",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "bring",
+    "past": "brought",
+    "participle": "brought",
+    "pronunciacion": "\/brɪŋ\/",
+    "espanol": "Traer\/Llevar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "broadcast",
+    "past": "broadcast",
+    "participle": "broadcast",
+    "pronunciacion": "\/ˈbrɔːd.kæst\/",
+    "espanol": "Radiar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "build",
+    "past": "built",
+    "participle": "built",
+    "pronunciacion": "\/bɪlt\/",
+    "espanol": "Edificar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "burn",
+    "past": "burnt \/ burned",
+    "participle": "burnt \/ burned",
+    "pronunciacion": "\/bɜːrn\/",
+    "espanol": "Quemar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "burst",
+    "past": "burst",
+    "participle": "burst",
+    "pronunciacion": "\/bɜːrst\/",
+    "espanol": "Reventar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "buy",
+    "past": "bought",
+    "participle": "bought",
+    "pronunciacion": "\/baɪ\/",
+    "espanol": "Comprar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "catch",
+    "past": "caught",
+    "participle": "caught",
+    "pronunciacion": "\/kætʃ\/",
+    "espanol": "Capturar\/Coger",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "choose",
+    "past": "chose",
+    "participle": "chosen",
+    "pronunciacion": "\/tʃuːz\/",
+    "espanol": "Elegir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "come",
+    "past": "came",
+    "participle": "come",
+    "pronunciacion": "\/kʌm\/",
+    "espanol": "Venir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "cost",
+    "past": "cost",
+    "participle": "cost",
+    "pronunciacion": "\/kɒst\/",
+    "espanol": "Costar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "cut",
+    "past": "cut",
+    "participle": "cut",
+    "pronunciacion": "\/kʌt\/",
+    "espanol": "Cortar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "deal",
+    "past": "dealt",
+    "participle": "dealt",
+    "pronunciacion": "\/diːl\/",
+    "espanol": "Tratar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "dig",
+    "past": "dug",
+    "participle": "dug",
+    "pronunciacion": "\/dɪɡ\/",
+    "espanol": "Cavar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "do",
+    "past": "did",
+    "participle": "done",
+    "pronunciacion": "\/duː\/",
+    "espanol": "Hacer",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "draw",
+    "past": "drew",
+    "participle": "drawn",
+    "pronunciacion": "\/drɔː\/",
+    "espanol": "Dibujar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "dream",
+    "past": "dreamt \/ dreamed",
+    "participle": "dreamt \/ dreamed",
+    "pronunciacion": "\/driːm\/",
+    "espanol": "Soñar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "drink",
+    "past": "drank",
+    "participle": "drunk",
+    "pronunciacion": "\/drɪŋk\/",
+    "espanol": "Beber",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "drive",
+    "past": "drove",
+    "participle": "driven",
+    "pronunciacion": "\/draɪv\/",
+    "espanol": "Coducir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "eat",
+    "past": "ate",
+    "participle": "eaten",
+    "pronunciacion": "\/iːt\/",
+    "espanol": "Comer",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "fall",
+    "past": "fell",
+    "participle": "fallen",
+    "pronunciacion": "\/fɔːl\/",
+    "espanol": "Caer",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "feed",
+    "past": "fed",
+    "participle": "fed",
+    "pronunciacion": "\/fiːd\/",
+    "espanol": "Alimentar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "feel",
+    "past": "felt",
+    "participle": "felt",
+    "pronunciacion": "\/fiːl\/",
+    "espanol": "Sentir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "fight",
+    "past": "fought",
+    "participle": "fought",
+    "pronunciacion": "\/faɪt\/",
+    "espanol": "Pelear",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "find",
+    "past": "found",
+    "participle": "found",
+    "pronunciacion": "\/faɪnd\/",
+    "espanol": "Encontrar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "fly",
+    "past": "flew",
+    "participle": "flown",
+    "pronunciacion": "\/flaɪ\/",
+    "espanol": "Volar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "forget",
+    "past": "forgot",
+    "participle": "forgotten",
+    "pronunciacion": "\/fəˈɡet\/",
+    "espanol": "Olvidar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "forgive",
+    "past": "forgave",
+    "participle": "forgiven",
+    "pronunciacion": "\/fəˈɡɪv\/",
+    "espanol": "Perdonar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "freeze",
+    "past": "froze",
+    "participle": "frozen",
+    "pronunciacion": "\/friːz\/",
+    "espanol": "Congelar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "get",
+    "past": "got",
+    "participle": "got \/ gotten (US)",
+    "pronunciacion": "\/ɡet\/",
+    "espanol": "Obtener",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "give",
+    "past": "gave",
+    "participle": "given",
+    "pronunciacion": "\/ɡɪv\/",
+    "espanol": "Dar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "go",
+    "past": "went",
+    "participle": "gone",
+    "pronunciacion": "\/ɡoʊ\/",
+    "espanol": "Ir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "grow",
+    "past": "grew",
+    "participle": "grown",
+    "pronunciacion": "\/ɡroʊ\/",
+    "espanol": "Crecer",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "hang",
+    "past": "hung",
+    "participle": "hung",
+    "pronunciacion": "\/hæŋ\/",
+    "espanol": "Colgar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "have",
+    "past": "had",
+    "participle": "had",
+    "pronunciacion": "\/hæv\/",
+    "espanol": "Tener",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "hear",
+    "past": "heard",
+    "participle": "heard",
+    "pronunciacion": "\/hɪr\/",
+    "espanol": "Oir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "hide",
+    "past": "hid",
+    "participle": "hidden",
+    "pronunciacion": "\/haɪd\/",
+    "espanol": "Ocultar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "hit",
+    "past": "hit",
+    "participle": "hit",
+    "pronunciacion": "\/hɪt\/",
+    "espanol": "Golpear",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "hold",
+    "past": "held",
+    "participle": "held",
+    "pronunciacion": "\/hoʊld\/",
+    "espanol": "Agarrar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "hurt",
+    "past": "hurt",
+    "participle": "hurt",
+    "pronunciacion": "\/hɜːrt\/",
+    "espanol": "Herir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "keep",
+    "past": "kept",
+    "participle": "kept",
+    "pronunciacion": "\/kiːp\/",
+    "espanol": "Conservar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "know",
+    "past": "knew",
+    "participle": "known",
+    "pronunciacion": "\/noʊ\/",
+    "espanol": "Saber\/Conocer",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "lay",
+    "past": "laid",
+    "participle": "laid",
+    "pronunciacion": "\/leɪ\/",
+    "espanol": "Echarse",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "lead",
+    "past": "led",
+    "participle": "led",
+    "pronunciacion": "\/liːd\/",
+    "espanol": "Conducir\/liderar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "learn",
+    "past": "learnt \/ learned",
+    "participle": "learnt \/ learned",
+    "pronunciacion": "\/lɜːrn\/",
+    "espanol": "Aprender",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "leave",
+    "past": "left",
+    "participle": "left",
+    "pronunciacion": "\/liːv\/",
+    "espanol": "Dejar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "lend",
+    "past": "lent",
+    "participle": "lent",
+    "pronunciacion": "\/lend\/",
+    "espanol": "Prestar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "let",
+    "past": "let",
+    "participle": "let",
+    "pronunciacion": "\/let\/",
+    "espanol": "Dejar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "lie",
+    "past": "lied",
+    "participle": "lied",
+    "pronunciacion": "\/laɪ\/",
+    "espanol": "Mentir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "lie",
+    "past": "lay",
+    "participle": "lain",
+    "pronunciacion": "\/laɪ\/",
+    "espanol": "Acostarse",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "lose",
+    "past": "lost",
+    "participle": "lost",
+    "pronunciacion": "\/luːz\/",
+    "espanol": "Perder",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "make",
+    "past": "made",
+    "participle": "made",
+    "pronunciacion": "\/meɪk\/",
+    "espanol": "Hacer",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "mean",
+    "past": "meant",
+    "participle": "meant",
+    "pronunciacion": "\/miːn\/",
+    "espanol": "Significar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "meet",
+    "past": "met",
+    "participle": "met",
+    "pronunciacion": "\/miːt\/",
+    "espanol": "Encontrar\/conozca",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "pay",
+    "past": "paid",
+    "participle": "paid",
+    "pronunciacion": "\/peɪ\/",
+    "espanol": "Pagar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "put",
+    "past": "put",
+    "participle": "put",
+    "pronunciacion": "\/pʊt\/",
+    "espanol": "Poner",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "read",
+    "past": "read",
+    "participle": "read",
+    "pronunciacion": "\/riːd\/ → \/red\/ (en pasado)",
+    "espanol": "Leer",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "ride",
+    "past": "rode",
+    "participle": "ridden",
+    "pronunciacion": "\/raɪd\/",
+    "espanol": "Montar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "ring",
+    "past": "rang",
+    "participle": "rung",
+    "pronunciacion": "\/rɪŋ\/",
+    "espanol": "Llamar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "rise",
+    "past": "rose",
+    "participle": "risen",
+    "pronunciacion": "\/raɪz\/",
+    "espanol": "Leventarse",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "run",
+    "past": "ran",
+    "participle": "run",
+    "pronunciacion": "\/rʌn\/",
+    "espanol": "Correr",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "say",
+    "past": "said",
+    "participle": "said",
+    "pronunciacion": "\/seɪ\/",
+    "espanol": "Decir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "see",
+    "past": "saw",
+    "participle": "seen",
+    "pronunciacion": "\/siː\/",
+    "espanol": "Ver",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "sell",
+    "past": "sold",
+    "participle": "sold",
+    "pronunciacion": "\/sel\/",
+    "espanol": "Vender",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "send",
+    "past": "sent",
+    "participle": "sent",
+    "pronunciacion": "\/send\/",
+    "espanol": "Enviar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "set",
+    "past": "set",
+    "participle": "set",
+    "pronunciacion": "\/set\/",
+    "espanol": "Poner",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "shake",
+    "past": "shook",
+    "participle": "shaken",
+    "pronunciacion": "\/ʃeɪk\/",
+    "espanol": "Sacudir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "shine",
+    "past": "shone",
+    "participle": "shone",
+    "pronunciacion": "\/ʃaɪn\/",
+    "espanol": "Brillar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "shoot",
+    "past": "shot",
+    "participle": "shot",
+    "pronunciacion": "\/ʃuːt\/",
+    "espanol": "Disparar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "show",
+    "past": "showed",
+    "participle": "shown \/ showed",
+    "pronunciacion": "\/ʃoʊ\/",
+    "espanol": "Mostrar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "shut",
+    "past": "shut",
+    "participle": "shut",
+    "pronunciacion": "\/ʃʌt\/",
+    "espanol": "Cerrar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "sing",
+    "past": "sang",
+    "participle": "sung",
+    "pronunciacion": "\/sɪŋ\/",
+    "espanol": "Cantar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "sink",
+    "past": "sank",
+    "participle": "sunk",
+    "pronunciacion": "\/sɪŋk\/",
+    "espanol": "Hundir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "sit",
+    "past": "sat",
+    "participle": "sat",
+    "pronunciacion": "\/sɪt\/",
+    "espanol": "Sentarse",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "sleep",
+    "past": "slept",
+    "participle": "slept",
+    "pronunciacion": "\/sliːp\/",
+    "espanol": "Dormir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "slide",
+    "past": "slid",
+    "participle": "slid",
+    "pronunciacion": "\/slaɪd\/",
+    "espanol": "Resbalar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "speak",
+    "past": "spoke",
+    "participle": "spoken",
+    "pronunciacion": "\/spiːk\/",
+    "espanol": "Hablar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "spend",
+    "past": "spent",
+    "participle": "spent",
+    "pronunciacion": "\/spend\/",
+    "espanol": "Gastar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "stand",
+    "past": "stood",
+    "participle": "stood",
+    "pronunciacion": "\/stænd\/",
+    "espanol": "Estar de pie",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "steal",
+    "past": "stole",
+    "participle": "stolen",
+    "pronunciacion": "\/stiːl\/",
+    "espanol": "Robar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "stick",
+    "past": "stuck",
+    "participle": "stuck",
+    "pronunciacion": "\/stɪk\/",
+    "espanol": "Pegar\/Engomar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "swim",
+    "past": "swam",
+    "participle": "swum",
+    "pronunciacion": "\/swɪm\/",
+    "espanol": "Nadar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "take",
+    "past": "took",
+    "participle": "taken",
+    "pronunciacion": "\/teɪk\/",
+    "espanol": "Coger",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "teach",
+    "past": "taught",
+    "participle": "taught",
+    "pronunciacion": "\/tiːtʃ\/",
+    "espanol": "Enseñar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "tear",
+    "past": "tore",
+    "participle": "torn",
+    "pronunciacion": "\/teər\/",
+    "espanol": "Rasgar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "tell",
+    "past": "told",
+    "participle": "told",
+    "pronunciacion": "\/tel\/",
+    "espanol": "Decir\/Contar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "think",
+    "past": "thought",
+    "participle": "thought",
+    "pronunciacion": "\/θɪŋk\/",
+    "espanol": "Pensar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "throw",
+    "past": "threw",
+    "participle": "thrown",
+    "pronunciacion": "\/θroʊ\/",
+    "espanol": "Arrojar\/Tirar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "understand",
+    "past": "understood",
+    "participle": "understood",
+    "pronunciacion": "\/ˌʌndərˈstænd\/",
+    "espanol": "Entender",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "wake",
+    "past": "woke",
+    "participle": "woken",
+    "pronunciacion": "\/weɪk\/",
+    "espanol": "Despertar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "wear",
+    "past": "wore",
+    "participle": "worn",
+    "pronunciacion": "\/weər\/",
+    "espanol": "Llevar puesto",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "win",
+    "past": "won",
+    "participle": "won",
+    "pronunciacion": "\/wɪn\/",
+    "espanol": "Ganar",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "write",
+    "past": "wrote",
+    "participle": "written",
+    "pronunciacion": "\/raɪt\/",
+    "espanol": "Escribir",
+    "type": "irregular",
+    "finish": ""
+  },
+  {
+    "present": "add",
+    "past": "added",
+    "pronunciacion": "\/ˈædɪd\/",
+    "espanol": "Añadir",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "accept",
+    "past": "accepted",
+    "pronunciacion": "\/əkˈsɛptɪd\/",
+    "espanol": "Aceptar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "act",
+    "past": "acted",
+    "pronunciacion": "\/ˈæktɪd\/",
+    "espanol": "Actuar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "arrest",
+    "past": "arrested",
+    "pronunciacion": "\/əˈrɛstɪd\/",
+    "espanol": "Arresto",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "avoid",
+    "past": "avoided",
+    "pronunciacion": "\/əˈvɔɪdɪd\/",
+    "espanol": "Evitar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "collect",
+    "past": "collected",
+    "pronunciacion": "\/kəˈlɛktɪd\/",
+    "espanol": "Recoge",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "complete",
+    "past": "completed",
+    "pronunciacion": "\/kəmˈpliːtɪd\/",
+    "espanol": "Completar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "count",
+    "past": "counted",
+    "pronunciacion": "\/ˈkaʊntɪd\/",
+    "espanol": "Contar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "decide",
+    "past": "decided",
+    "pronunciacion": "\/dɪˈsaɪdɪd\/",
+    "espanol": "decidir",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "divide",
+    "past": "divided",
+    "pronunciacion": "\/dɪ",
+    "espanol": "Dividir",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "expect",
+    "past": "expected",
+    "pronunciacion": "\/ɪkˈspɛktɪd\/",
+    "espanol": "Esperar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "expand",
+    "past": "expanded",
+    "pronunciacion": "\/ɪkˈspændɪd\/",
+    "espanol": "Ampliar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "grade",
+    "past": "graded",
+    "pronunciacion": "\/ˈɡreɪdɪd\/",
+    "espanol": "Grado",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "hate",
+    "past": "hated",
+    "pronunciacion": "\/ˈheɪtɪd\/",
+    "espanol": "Odio",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "invite",
+    "past": "invited",
+    "pronunciacion": "\/ɪnˈvaɪtɪd\/",
+    "espanol": "Invitar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "land",
+    "past": "landed",
+    "pronunciacion": "\/ˈlændɪd\/",
+    "espanol": "Aterrizado",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "need",
+    "past": "needed",
+    "pronunciacion": "\/ˈniːdɪd\/",
+    "espanol": "Necesitar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "paint",
+    "past": "painted",
+    "pronunciacion": "\/ˈpeɪntɪd\/",
+    "espanol": "Pintar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "pretend",
+    "past": "pretended",
+    "pronunciacion": "\/prɪˈtɛndɪd\/",
+    "espanol": "Pretender",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "print",
+    "past": "printed",
+    "pronunciacion": "\/ˈprɪntɪd\/",
+    "espanol": "Imprimir",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "repeat",
+    "past": "repeated",
+    "pronunciacion": "\/rɪˈpiːtɪd\/",
+    "espanol": "Repetir",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "report",
+    "past": "reported",
+    "pronunciacion": "\/rɪˈpɔːrtɪd\/",
+    "espanol": "Reportar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "shout",
+    "past": "shouted",
+    "pronunciacion": "\/ˈʃaʊtɪd\/",
+    "espanol": "Gritar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "start",
+    "past": "started",
+    "pronunciacion": "\/ˈstɑːrtɪd\/",
+    "espanol": "Comenzar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "study",
+    "past": "studied",
+    "pronunciacion": "\/ˈstʌdid\/",
+    "espanol": "Estudiar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "taste",
+    "past": "tasted",
+    "pronunciacion": "\/ˈteɪstɪd\/",
+    "espanol": "Probar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "visit",
+    "past": "visited",
+    "pronunciacion": "\/ˈvɪzɪtɪd\/",
+    "espanol": "Visitar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "wait",
+    "past": "waited",
+    "pronunciacion": "\/ˈweɪtɪd\/",
+    "espanol": "Esperar",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "want",
+    "past": "wanted",
+    "pronunciacion": "\/ˈwɒntɪd\/ (UK) \/ˈwɑːntɪd\/ (US)",
+    "espanol": "Querer\/Desear",
+    "type": "regular",
+    "finish": "id"
+  },
+  {
+    "present": "ask",
+    "past": "asked",
+    "pronunciacion": "\/æskt\/",
+    "espanol": "Preguntar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "bake",
+    "past": "baked",
+    "pronunciacion": "\/beɪkt\/",
+    "espanol": "Hornear",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "brush",
+    "past": "brushed",
+    "pronunciacion": "\/brʌʃt\/",
+    "espanol": "Cepillar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "cash",
+    "past": "cashed",
+    "pronunciacion": "\/kæʃt\/",
+    "espanol": "Crobrar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "cook",
+    "past": "cooked",
+    "pronunciacion": "\/kʊkt\/",
+    "espanol": "Cocinar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "dance",
+    "past": "danced",
+    "pronunciacion": "\/dænst\/ (UK), \/dænst\/ or \/dænst\/ (US)",
+    "espanol": "Bailar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "drop",
+    "past": "dropped",
+    "pronunciacion": "\/drɒpt\/",
+    "espanol": "Dejar\/abandonar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "finish",
+    "past": "finished",
+    "pronunciacion": "\/ˈfɪnɪʃt\/",
+    "espanol": "Terminar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "help",
+    "past": "helped",
+    "pronunciacion": "\/helpt\/",
+    "espanol": "Ayudar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "hop",
+    "past": "hopped",
+    "pronunciacion": "\/hɒpt\/",
+    "espanol": "Saltar(corto)",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "hope",
+    "past": "hoped",
+    "pronunciacion": "\/hoʊpt\/",
+    "espanol": "Esperar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "jump",
+    "past": "jumped",
+    "pronunciacion": "\/dʒʌmpt\/",
+    "espanol": "Saltar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "kick",
+    "past": "kicked",
+    "pronunciacion": "\/kɪkt\/",
+    "espanol": "Patear",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "kiss",
+    "past": "kissed",
+    "pronunciacion": "\/kɪst\/",
+    "espanol": "Besar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "laugh",
+    "past": "laughed",
+    "pronunciacion": "\/læft\/",
+    "espanol": "Reir",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "like",
+    "past": "liked",
+    "pronunciacion": "\/laɪkt\/",
+    "espanol": "Gustar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "look",
+    "past": "looked",
+    "pronunciacion": "\/lʊkt\/",
+    "espanol": "Mirar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "miss",
+    "past": "missed",
+    "pronunciacion": "\/mɪst\/",
+    "espanol": "Extrañar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "pass",
+    "past": "passed",
+    "pronunciacion": "\/pɑːst\/",
+    "espanol": "Pasar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "pick",
+    "past": "picked",
+    "pronunciacion": "\/pɪkt\/",
+    "espanol": "Elegir",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "push",
+    "past": "pushed",
+    "pronunciacion": "\/pʊʃt\/",
+    "espanol": "Empujar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "relax",
+    "past": "relaxed",
+    "pronunciacion": "\/rɪˈlækst\/",
+    "espanol": "Relajar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "shop",
+    "past": "shopped",
+    "pronunciacion": "\/ʃɒpt\/",
+    "espanol": "Ir de compras",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "talk",
+    "past": "talked",
+    "pronunciacion": "\/tɔːkt\/",
+    "espanol": "Hablar\/Conversar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "walk",
+    "past": "walked",
+    "pronunciacion": "\/wɔːkt\/",
+    "espanol": "Caminar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "watch",
+    "past": "watched",
+    "pronunciacion": "\/wɒtʃt\/",
+    "espanol": "Observar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "work",
+    "past": "worked",
+    "pronunciacion": "\/wɜːrkt\/",
+    "espanol": "Trabajar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "wash",
+    "past": "washed",
+    "pronunciacion": "\/wɒʃt\/",
+    "espanol": "Lavar",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "wish",
+    "past": "wished",
+    "pronunciacion": "\/wɪʃt\/",
+    "espanol": "Desear",
+    "type": "regular",
+    "finish": "t"
+  },
+  {
+    "present": "allow",
+    "past": "allowed",
+    "pronunciacion": "\/əˈlaʊd\/",
+    "espanol": "Permitir",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "answer",
+    "past": "answered",
+    "pronunciacion": "\/ˈɑːnsərd\/",
+    "espanol": "Responder",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "arrive",
+    "past": "arrived",
+    "pronunciacion": "\/əˈraɪvd\/",
+    "espanol": "Llegar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "believe",
+    "past": "believed",
+    "pronunciacion": "\/bɪˈliːvd\/",
+    "espanol": "Creer",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "call",
+    "past": "called",
+    "pronunciacion": "\/kɔːld\/",
+    "espanol": "Llamar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "clean",
+    "past": "cleaned",
+    "pronunciacion": "\/kliːnd\/",
+    "espanol": "Limppiar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "close",
+    "past": "closed",
+    "pronunciacion": "\/kloʊzd\/",
+    "espanol": "Cerrar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "cry",
+    "past": "cried",
+    "pronunciacion": "\/kraɪd\/",
+    "espanol": "Llorar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "enjoy",
+    "past": "enjoyed",
+    "pronunciacion": "\/ɪnˈdʒɔɪd\/",
+    "espanol": "Disfrutar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "explain",
+    "past": "explained",
+    "pronunciacion": "\/ɪkˈspleɪnd\/",
+    "espanol": "Explicar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "fill",
+    "past": "filled",
+    "pronunciacion": "\/fɪld\/",
+    "espanol": "Llenar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "follow",
+    "past": "followed",
+    "pronunciacion": "\/ˈfɑːloʊd\/",
+    "espanol": "Seguir",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "hurry",
+    "past": "hurried",
+    "pronunciacion": "\/ˈhɜːrid\/",
+    "espanol": "Rapido\/Deprisa",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "improve",
+    "past": "improved",
+    "pronunciacion": "\/ɪmˈpruːvd\/",
+    "espanol": "Mejorar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "join",
+    "past": "joined",
+    "pronunciacion": "\/dʒɔɪnd\/",
+    "espanol": "Unirse",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "learn",
+    "past": "learned",
+    "pronunciacion": "\/lɜːrnd\/",
+    "espanol": "Aprender",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "listen",
+    "past": "listened",
+    "pronunciacion": "\/ˈlɪsənd\/",
+    "espanol": "Escuchar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "live",
+    "past": "lived",
+    "pronunciacion": "\/lɪvd\/",
+    "espanol": "Vivir",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "love",
+    "past": "loved",
+    "pronunciacion": "\/lʌvd\/",
+    "espanol": "Amar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "need",
+    "past": "needed",
+    "pronunciacion": "\/ˈniːdɪd\/ (→ ¡este es \/ɪd\/!)",
+    "espanol": "Necesita",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "open",
+    "past": "opened",
+    "pronunciacion": "\/ˈoʊpənd\/",
+    "espanol": "Abrir",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "play",
+    "past": "played",
+    "pronunciacion": "\/pleɪd\/",
+    "espanol": "Jugar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "rain",
+    "past": "rained",
+    "pronunciacion": "\/reɪnd\/",
+    "espanol": "Llover",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "return",
+    "past": "returned",
+    "pronunciacion": "\/rɪˈtɜːrnd\/",
+    "espanol": "Retornar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "save",
+    "past": "saved",
+    "pronunciacion": "\/seɪvd\/",
+    "espanol": "Guardar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "smile",
+    "past": "smiled",
+    "pronunciacion": "\/smaɪld\/",
+    "espanol": "Sonreir",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "stay",
+    "past": "stayed",
+    "pronunciacion": "\/steɪd\/",
+    "espanol": "Quedar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "study",
+    "past": "studied",
+    "pronunciacion": "\/ˈstʌdid\/",
+    "espanol": "Esudiar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "travel",
+    "past": "traveled",
+    "pronunciacion": "\/ˈtrævəld\/",
+    "espanol": "Viajar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "try",
+    "past": "tried",
+    "pronunciacion": "\/traɪd\/",
+    "espanol": "Intentar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "use",
+    "past": "used",
+    "pronunciacion": "\/juːzd\/",
+    "espanol": "Usar",
+    "type": "regular",
+    "finish": "d"
+  },
+  {
+    "present": "worry",
+    "past": "worried",
+    "pronunciacion": "\/ˈwɜːrid\/",
+    "espanol": "Preocupar",
+    "type": "regular",
+    "finish": "d"
+  }
+]

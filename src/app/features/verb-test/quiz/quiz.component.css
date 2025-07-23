@@ -1,0 +1,89 @@
+.quiz-container {
+  max-width: 500px;
+  margin: 2rem auto;
+  padding: 2rem;
+  border-radius: 12px;
+  background-color: #e0ecff; /* azul suave */
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.quiz-container h2 {
+  text-align: center;
+  color: #003366;
+  margin-bottom: 1.5rem;
+}
+
+.input-container,
+.sound-selector,
+.feedback {
+  margin-bottom: 1.2rem;
+}
+
+label {
+  font-weight: 600;
+  margin-bottom: 0.3rem;
+  display: block;
+}
+
+input[type="text"],
+select {
+  width: 100%;
+  padding: 10px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  font-size: 16px;
+}
+
+button {
+  background-color: #003366;
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  margin-right: 10px;
+  border-radius: 6px;
+  transition: background-color 0.2s ease;
+}
+
+button:hover {
+  background-color: #0052cc;
+}
+
+button.sound-check-answers {
+  margin-top: 10px;
+}
+
+button.sound-btn {
+  background: none;
+  border: none;
+  font-size: 20px;
+  color: #003366;
+  vertical-align: middle;
+}
+
+button.sound-btn:hover {
+  color: #0052cc;
+}
+
+.sound-options {
+  margin-top: 1rem;
+}
+
+.sound-buttons {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+}
+
+.sound-buttons button {
+  flex: 1;
+  background-color: white;
+  color: #003366;
+  border: 2px solid #003366;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 6px;
+}
+
+.sound-buttons button:hover {
+  background-color: #dbe9ff;
+}

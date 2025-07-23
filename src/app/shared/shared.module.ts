@@ -12,6 +12,9 @@ import { FeedbackComponent } from './feedback/feedback.component';
   ],
   imports: [
     CommonModule
+  ],
+  exports:[
+    InputCheckComponent
   ]
 })
 export class SharedModule { }
